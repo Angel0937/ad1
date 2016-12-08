@@ -1,24 +1,3 @@
-##Strong management:
-- <p align="left">Lock link
-- <p align="left">Lock spam
-- <p align="left">Lock flood
-- <p align="left">Lock media
-- <p align="left">Lock bots
-- <p align="left">Lock forward(fwd)
-- <p align="left">Lock reply
-- <p align="left">Lock share
-- <p align="left">Lock tag
-- <p align="left">Lock operator
-- <p align="left">Lock number
-- <p align="left">Lock poker
-- <p align="left">Lock sticker
-- <p align="left">Lock rtl
-- <p align="left">Lock strict
-- <p align="left">Lock tgservice
-- <p align="left">Public & memebers
-- <p align="left">Show mutes list in settings
-- <p align="left">And ...
-
 ## SuperGroup's languages (you can say !lang list):
 | Commands | Usage | 
 |:--------|:----------|:------------|
@@ -42,11 +21,11 @@
 - <p align="left">Clone Source:
 ```sh
 cd $home
-git clone https://github.com/janlou/AdvanSource
+git clone https://github.com/Tarfand-pro/ad1.git
 ```
 - <p align="left">First install:
 ```sh
-cd AdvanSource
+cd ad1
 cd .run
 chmod 777 adv
 bash adv
